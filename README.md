@@ -1,7 +1,5 @@
 # Flux Sales Accelerator
 
-A Streamlit application that helps us to create targeted sales materials for Flux's DICOM products.
-
 ## Overview
 
 The Flux Sales Accelerator uses AI to generate comprehensive sales packages for healthcare imaging facilities. It pulls data from Apollo.io, scrapes websites, and leverages AI agents to create personalized sales content.
